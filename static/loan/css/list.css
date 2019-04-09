@@ -1,0 +1,132 @@
+body{
+  background:#fff;
+}
+.bg_wrap{
+  padding-top:1px;
+}
+.logo{
+  width:17.325rem;
+height:1.2rem;
+  background:url(../images/logo_yueda.png) no-repeat;
+  background-size:100% 100%;
+  display:block;
+  margin-top:1.25rem;
+}
+.list_title{
+  width:4.925rem;
+  height:1.025rem;
+  background:url(../images/title_chedai.png) no-repeat;
+  background-size:100% 100%;
+  margin:0.5rem auto;
+}
+.list_head{
+  border-top:1px solid #ccc;
+  border-bottom:1px solid #ccc;
+}
+.list_head_sub{
+  float:left;
+  width:25%;
+  height:1.725rem;
+  line-height:1.725rem;
+  text-align: center;
+  color:#454545;
+  font-size:15px;
+  position:relative;
+}
+.list_head_sub.on{
+  background:#efefef;
+  color:#c70026;
+}
+.left_line{
+  position:absolute;
+  left:0;
+  top:0;
+  width:1px;
+  height:100%;
+  background:#ccc;
+}
+.bottom_line{
+  position:absolute;
+  left:0;
+  bottom:0;
+  height:5px;
+  width:100%;
+  background:#00479d;
+  display:none;
+}
+.list_head_sub.on .bottom_line{
+  display:block;
+}
+.list_body{
+  margin-top:0.25rem;
+  border-top:1px solid #ccc;
+}
+.list_body_sub{
+  background:#efefef;
+  display:none;
+}
+.list_body_sub.on{
+  display:block;
+}
+.list_sub{
+  display:table;
+  width:100%;
+  height:7.7rem;
+  border-bottom:1px solid #ccc;
+}
+.list_sub_infm,.list_sub_img{
+  display:table-cell;
+}
+.list_sub_infm{
+  width:40%;
+}
+.list_sub_img{
+  width:60%;
+  border-right:1px solid #ccc;
+}
+.car_img{
+  width:100%;
+  height:7.7rem;
+}
+.list_sub_infm{
+  text-align: center;
+  vertical-align: middle;
+  background:#efefef;
+}
+.list_RightTW{
+  width:100%;
+  height:100%;
+  display:table;
+}
+.list_sub_Rwrap{
+  display:table-cell;
+  height:100%;
+  width:80%;
+  vertical-align: middle;
+}
+.list_sub_Lwrap{
+  display:table-cell;
+  width:0.5rem;
+  height:0.95rem;
+  width:20%;
+  background:url(../images/icon_right.png) center no-repeat;
+}
+.list_infm_title{
+  font-size:18px;
+  font-family:"微软雅黑";
+}
+.list_infm_s2{
+  font-size:15px;
+}
+.list_infm_s3{
+  font-size:12px;
+}
+.red{
+  color:#c70026;
+  font-size:15px;
+  font-style: normal;
+  font-weight:bold;
+}
+a{
+  color:initial;
+}

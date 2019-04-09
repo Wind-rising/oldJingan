@@ -1,0 +1,84 @@
+body,html{
+  box-sizing:border-box;
+  overflow: hidden;
+  width:100%;
+  height:100%;
+}
+.relative{
+	box-sizing:border-box;
+	padding:1px 0;
+	position:relative;
+	z-index:3;
+	margin-bottom:8.7rem;
+}
+.page{
+	width:100%;
+	min-height:100%;
+	background:url(../images2/main_bg.png) no-repeat;
+	background-size:100% 100%;
+	box-sizing:border-box;
+	padding-bottom:1px;
+	position:relative;
+}
+.page_top{
+	/*position:absolute;*/
+	/*top:0;*/
+	/*left:0;*/
+	/*width:100%;*/
+	/*height:100%;*/
+	/*background-size:100% 100%;*/
+}
+.icon_failed{
+	position:relative;
+	width:10.025rem;
+	height:6.875rem;
+	background:url(../images/icon_sorry.png) no-repeat;
+	background-size:100% 100%;
+	display:block;
+	left:50%;
+	margin-left:-6.0125rem;
+	margin-top:1.8rem;
+}
+
+.button{
+	width:6.775rem;
+	height:2.225rem;
+	background:url(../images2/button_wrap.png) no-repeat;
+  	background-size:100% 100%;
+}
+.button_word{
+  width:100%;
+  height:100%;
+  display:block;
+  background:url() center 0.35rem no-repeat; 
+}
+.word_join{
+	background:url(../images/word_join.png) center no-repeat;
+	background-size:4.2rem 1.1rem;
+}
+.page p{
+	font-size:0.9rem;
+	color:#414141;
+	text-align:center;
+	margin-bottom:0.5rem;
+}
+.page .orgin{
+	color:#ff7a00;
+}
+.page .p1{
+	font-size:1.125rem;
+	margin:0.6rem auto;
+}
+.joinGame{
+	display:block;
+	margin:1.925rem auto;
+}
+.page_bottom{
+	/*position:absolute;*/
+	/*bottom:0;*/
+	/*left:0;*/
+	/*height:8.7rem;*/
+	/*width:100%;*/
+	/*background:url(../images/bg_bottom.png) no-repeat;*/
+	/*background-size:100% 100%;*/
+}

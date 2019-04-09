@@ -1,0 +1,79 @@
+1.进入h5页面接口
+返回数据格式
+{
+    "code": 0,
+    "data":
+    {
+    	"isGetRed":0//是否已经领取红包 0为未领取，1为领取
+        "max": 4,//当前最大可闯关卡  0为1,
+        "maxRed":3,//当前最大可领取红包等级 0为第一关
+        "score": [90, 100, 30, 0, 0],//当日历史最大关卡分数
+        "currentRed": [200, 0, 400, 100, 200]//当前各个红包数
+    }
+}
+2.答题数据提交接口
+传递参数格式
+{
+	"checkpointID":1,//关卡索引 0为1
+	"answer":[
+		{
+			"questionID":1,//题目索引 0为1
+			"selectID":[0,1]//选项索引 0为1
+		},
+		{
+			"questionID":4,
+			"selectID":[0]
+		},
+		{
+			"questionID":6,
+			"selectID":[2]
+		},
+	]
+}
+返回数据格式
+{
+	"code":0,
+	"data":{
+		"currentScore":80//当前关卡分数
+		"max": 4,//当前最大可闯关卡  0为1,
+        "maxRed":3,//当前最大可领取红包等级 0为第一关
+        "score": [90, 100, 30, 0, 0],//当日历史最大关卡分数
+        "currentRed": [200, 0, 400, 100, 200]//当前各个红包数
+	}
+}
+3.领取红包接口
+领取成功
+{
+	"code":0,
+	"data":{
+        "code": 'GES34G',
+        "currentRed": [200, 0, 400, 100, 200]//当前各个红包数
+	}
+}
+领取失败
+{
+	"code":1,
+	"data":{
+        "reason":""//领取失败原因描述
+	}
+}
+
+
+1.进入h5页面接口:
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa9da81f585c9d3b0&redirect_uri=http%3A%2F%2Fwx.wuliqinggu.com%2Factivity%2Findex&response_type=code&scope=snsapi_base&state=1#wechat_redirect
+测试地址:
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa9da81f585c9d3b0&redirect_uri=http%3A%2F%2Fwx.wuliqinggu.com%2Factivityc%2Findex&response_type=code&scope=snsapi_base&state=1#wechat_redirect
+
+2.获取首次信息接口：
+http://wx.wuliqinggu.com/activity/getInfo
+
+2.答题数据提交接口:
+http://wx.wuliqinggu.com/activity/getScore
+参数：answer_list  (数据内容与上文定义相同)
+
+3.调取红包接口:
+http://wx.wuliqinggu.com/activity/getRedPack
+参数：checkpoint  当前领取红包的关卡数
+
+4.用户领取红包接口：
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa9da81f585c9d3b0&redirect_uri=http%3A%2F%2Fwx.wuliqinggu.com%2Factivity%2Flingqu&response_type=code&scope=snsapi_base&state=1#wechat_redirect

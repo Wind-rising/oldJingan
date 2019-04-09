@@ -1,0 +1,754 @@
+{
+    "name": "静安禁毒关卡一图组2",
+    "data": [
+    {
+        "id": 0,
+        "question": "（ ）年通过的宪法修正案增加了“中国共产党领导的多党合作和政治协商制度将长期存在和发展”的规定。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "1999",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1993",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "1988",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "1982",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 1,
+        "question": "中华人民共和国实行依法治国，建设社会主义法治国家。”是（ ）年通过的宪法修正案规定的。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "1988",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1993",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "1999",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "2004",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 2,
+        "question": "依我国现行宪法的规定，城市的土地属于（ ）；农村和城市郊区的土地，除由法律规定属于国家所有的以外，属于（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国家所有、集体所有",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "国家所有；国家所有",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "集体所有；集体所有",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "集体所有；国家所有",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 3,
+        "question": "任何公民，非经（ ）批准或者决定或者（ ）决定，并由（ ）执行，不受逮捕。 ",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "人民检察院，人民法院，公安机关 ",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "人民法院，人民检察院，公安机关 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "人民法院，公安机关，人民检察院",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "公安机关，人民检察院，人民法院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 4,
+        "question": "设立特别行政区的法律依据是（ )。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "宪法序言",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "宪法第三十一条",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "中英联合声明",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "香港基本法",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 5,
+        "question": "有权决定特别行政区设立的国家机关是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 6,
+        "question": "一切国家机关实行（ ）的原则，实行工作责任制，实行工作人员的培训和考核制度，不断提高工作质量和工作效率，反对官僚主义。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "创新",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "精简",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "考试",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "轮岗",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 7,
+        "question": "中华人民共和国对于因为（ ）原因要求避难的外国人，可以给予受庇护的权利。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "经济",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "政治",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "军事",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "宗教",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 8,
+        "question": "行使国家立法权的机关是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会和全国人民代表大会常务委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "国人民代表大会、全国人民代表大会常务委员会和国务院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 9,
+        "question": "全国人民代表大会由省、自治区、直辖市、特别行政区和（ ）选出的代表组成。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "军队",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "少数民族地区",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "各社会团体",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "各行业协会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 10,
+        "question": "我国宪法规定，全国人大常委会的组成人员中，应当有适当名额的（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "行政人员代表",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "司法机关人员代表",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "社会团体代表",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "少数民族代表",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 11,
+        "question": "宪法规定,（ ）行使监督宪法实施的职权。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会及其常委会",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "各民主党派",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 12,
+        "question": "宪法规定：“父母有抚养教育未成年子女的义务，（ ）。”",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "子女有赡养扶助父母的义务",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "成年子女有赡养扶助年老父母的义务",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "子女有赡养扶助丧失劳动能力的父母的义务",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "成年子女有赡养扶助父母的义务",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 13,
+        "question": "居民委员会、村民委员会主任、副主任和委员由（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "街道办事处任命 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "居民选举",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "选民选举",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "群众推荐上级任命",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 14,
+        "question": "自治州、自治县区域划分由（ ）审批。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "自治区人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国务院",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "自治区人民政府",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 15,
+        "question": "我最高人民法院（ ）地方各级人民法院的审判工作，最高人民检察院（ ）地方各级人民检察院的工作。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "监督，领导",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "领导，领导",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "领导，监督",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "监督，监督",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 16,
+        "question": "乡、民族乡、镇的人民代表大会每届任期（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "五年",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "四年",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "三年",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "两年",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 17,
+        "question": "中华人民共和国国徽中间是五星照耀下的天安门，周围是（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "镰刀和斧头",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "锤子和斧头",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "镰刀和齿轮",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "谷穗和齿轮",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 18,
+        "question": "居民委员会是（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "基层自治性群众组织",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "基层群众性自治组织",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "基层政权机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "基层政权机关的派出机关",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 19,
+        "question": "不属于民族自治地方的自治机关的是（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "内蒙古自治区人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "湖南省湘西土家族苗族自治州人民政府",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "四川省北川羌族自治县人民法院",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "海南省白沙黎族自治县人民政府",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 20,
+        "question": "我国的宪法修正案以（ ）的形式公布施行。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "中华人民共和国主席令",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "中华人民共和国全国人民代表大会公告",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "中华人民共和国全国人民代表大会常务委员会公报 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国务院令",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 21,
+        "question": "居民委员会、村民委员会同基层政权的相互关系由（ ）规定。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "宪法",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "法律",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "行政法规",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "民政部门",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 22,
+        "question": "广西壮族自治区人民代表大会有权制定（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "法律",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "自治条例和单行条例",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "政府规章",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "行政法规",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 23,
+        "question": "人民法院、人民检察院和公安机关办理（ ），应当分工负责，互相配合，互相制约，以保证准确有效地执行法律。",
+        "option":  [
+        {
+            "id": 0,
+            "optionSub": "刑事案件",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "民事案件",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "经济案件",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "行政案件",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 24,
+        "question": "县级以上的地方各级人民代表大会常务委员会对本级人民政府、人民法院、人民检察院行使（ ）。",
+        "option":  [
+        {
+            "id": 0,
+            "optionSub": "指导权",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "监督权",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "批评建议权",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "管理权",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 25,
+        "question": "地方各级人民政府是地方各级国家权力机关的( )，是地方各级国家行政机关。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "下属机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "行政机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "监督机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "执行机关",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 26,
+        "question": "全国人民代表大会每年举行一次，由（ ）召集。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会主席团",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "委员长会议",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "委员长",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 27,
+        "question": "国务院实行（ ）负责制。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国务院全体会议",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国务院常务会议",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "总理",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "集体",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 28,
+        "question": "农村集体经济组织实行（ ）为基础、统分结合的双层经营体制。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "家庭承包经营",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "个人承包经营",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "分田到户",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "个体经营",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 29,
+        "question": "下列有关宗教信仰自由的表述中，不正确的有（ ）。 ",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "任何组织和个人不得强制公民信仰宗教或者不信仰宗教",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "少数民族聚居区的学校应该开设宗教课程 ",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "不得歧视信仰宗教的公民和不信仰宗教的公民",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "宗教团体和宗教事务不受外国势力的支配",
+            "isCorrect": 0
+        }]
+    }]
+}

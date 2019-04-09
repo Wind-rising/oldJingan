@@ -1,0 +1,754 @@
+{
+    "name": "静安禁毒关卡一图组3",
+    "data": [
+    {
+        "id": 0,
+        "question": "决定战争和和平的问题的国家机关是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 1,
+        "question": "集体经济组织实行（ ），依照法律规定选举和罢免管理人员，决定经营管理的重大问题。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "民主决策",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "共同经营",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "民主监督",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "民主管理",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 2,
+        "question": "在全国人民代表大会闭会期间，全国人民代表大会常务委员会有权审查和批准国民经济和社会发展计划、国家预算在执行过程中所必须作的（ ）调整方案。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "整体",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "部分",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "重大",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "个别",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 3,
+        "question": "有权决定乡、民族乡、镇的建置和区域划分的有（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国务院 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "省人民政府",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "省辖市人民政府",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "县人民政府",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 4,
+        "question": "（ ）有权依照法律规定的程序提出对国务院或者国务院各部、各委员会的质询案。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "省人大代表",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "市人大代表",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会代表，全国人民代表大会常务委员会组成人员",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "最高人民检察院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 5,
+        "question": "在全国人民代表大会闭会期间，全国人大常委会根据最高人民法院院长的提请，可以任免除（ ）以外的人员。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "高级人民法院院长",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "军事法院院长",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "最高人民法院副院长",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "最高人民法院审判员",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 6,
+        "question": "（ ）行使撤销省、自治区、直辖市国家权力机关制定的同宪法、法律和行政法规相抵触的地方性法规和决议的职权。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "最高人民检察院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 7,
+        "question": "在全国人民代表大会开会期间，非经（ ）的许可，全国人民代表大会代表不受逮捕或者刑事审判。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会会议主席团",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "委员长会议",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 8,
+        "question": "有权决定特赦的国家机关是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "最高人民法院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 9,
+        "question": "国务院总理人选由（ ）提名,全国人民代表大会决定。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会主席团",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "中共中央总书记",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家主席",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 10,
+        "question": "自治区的自治条例和单行条例需（ ）生效。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "报全国人大常委会备案后",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "报全国人大常委会批准后",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "报全国人大常委会和国务院备案后",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "报国务院批准后",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 11,
+        "question": "按照我国宪法的规定，国务院对各部、各委员会发布的不适当的命令、指示和规章有权（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "改变",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "变更或撤销",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "改变或者撤销",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "重新发布",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 12,
+        "question": "全国人民代表大会任期届满的（ ），全国人民代表大会常务委员会必须完成下届全国人民代表大会代表的选举。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "两个月以前",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "两个月以内",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "一个月以前",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "一个月以内",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 13,
+        "question": "由全国人民代表大会决定人选，由全国人民代表大会选举的是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "中华人民共和国副主席",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "最高人民法院院长",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "国务院副总理",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "最高人民检察院检察长",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 14,
+        "question": "除因国家安全或者追查刑事犯罪的需要，由公安机关或者（ ）依照法律规定的程序对通信进行检查外，任何组织或者个人不得以任何理由侵犯公民的通信自由和通信秘密。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "监察机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "司法机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "检察机关",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "其他执法机关",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 15,
+        "question": "宪法宣誓制度的意义包括（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "强化全体公民对宪法最高法律效力、最高法律权威、最高法律地位的认识",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "有利于在全社会增强宪法意识",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "有利于增强国家工作人员的宪法观念",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "有利于树立宪法权威",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 16,
+        "question": "根据现行宪法规定，关于公民权利，下列选项不正确的是（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "劳动、受教育和依法服兵役既是公民的基本权利又是公民的基本义务",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "受教育权是一部分公民的权利",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "公民在年老、疾病或者未丧失劳动能力的情况下，有从国家和社会获得物质帮助的权利",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "国家尊重和保障人权",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 17,
+        "question": "在我国，有权制定和修改刑事、民事、国家机构的和其他的基本法律的是（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会和全国人民代表大会常务委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会、全国人民代表大会常务委员会和国务院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 18,
+        "question": "中华人民共和国主席代表中华人民共和国，进行国事活动，接受外国使节；根据( )，派遣和召回驻外全权代表，批准和废除同外国缔结的条约和重要协定。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会的决定",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会的决定",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "国务院的决定",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会和全国人民代表大会常务委员会的决定",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 19,
+        "question": "宪法规定，中华人民共和国是工人阶级领导的，以工农联盟为基础的（ ）的社会主义国家。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "无产阶级专政",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "民主共和",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "多党合作",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "人民民主专政",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 20,
+        "question": "全国人民代表大会常务委员会的重要日常工作由（ ）处理。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "委员长",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "委员长会议",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "秘书长",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "各专门委员会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 21,
+        "question": "宪法规定，中央军委主席（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "对全国人民代表大会负责 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "对全国人民代表大会负责并报告工作",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "对全国人民代表大会和全国人民代表大会常务委员会负责",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "对全国人民代表大会常务委员会负责并报告工作",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 22,
+        "question": "关于罢免全国人民代表大会代表，表述不正确的是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会有权罢免全国人民代表大会代表",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "原选举单位有权依照法律规定的程序罢免本单位选出的代表",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会主席团有权罢免全国人民代表大会代表",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "县人民代表大会有权依照法律规定的程序罢免本地区的全国人民代表大会代表",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 23,
+        "question": "有关全国人民代表大会常务委员会的任免权的表述中，正确的为（ ）。",
+        "option":  [
+        {
+            "id": 0,
+            "optionSub": "在全国人民代表大会闭会期间，根据国务院总理的提名，决定部长的人选",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "根据最高人民法院院长的提请，任免最高人民法院审判员",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "在全国人民代表大会闭会期间，任免最高人民检察院助理检察员",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "决定驻外全权代表的任免",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 24,
+        "question": "（ ）统一领导全国地方各级国家行政机关的工作，规定中央和省、自治区、直辖市的国家行政机关的职权的具体划分。",
+        "option":  [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国务院",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会常务委员会 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 25,
+        "question": "2004年宪法修正案作出了( )条修改。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "十",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "十二",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "十四",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "十五",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 26,
+        "question": "国家建立健全同（ ）相适应的社会保障制度。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "经济发展水平",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "财政状况",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "社会发展",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "公民需要",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 27,
+        "question": "全国人民代表大会会议每年举行一次。如果全国人民代表大会认为有必要，或者有（ ）以上的全国人民代表大会代表提议，可以临时召集全国人民代表大会会议。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "八分之一",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "七分之一",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "六分之一 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "五分之一",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 28,
+        "question": "( )首次将社会主义市场经济写入宪法。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "1982年宪法",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1988年修正案",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "1993年宪法修正案",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "1999年宪法修正案",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 29,
+        "question": "根据宪法规定，有选举权和被选举权的年满（ ）周岁的中华人民共和国公民可以被选为中华人民共和国主席副主席。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "50",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "40",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "35",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "45",
+            "isCorrect": 1
+        }]
+    }]
+}

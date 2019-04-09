@@ -1,0 +1,10 @@
+.bg_wrap{
+  padding-top:1px;
+}
+.shenqing_title{
+  width:5.175rem;
+  height:1.175rem;
+  background:url(../images/title_shenqing.png) no-repeat;
+  background-size:100% 100%;
+  margin:0.5rem auto 1.25rem;
+}

@@ -1,0 +1,754 @@
+{
+    "name": "静安禁毒关卡一图组1",
+    "data": [
+    {
+        "id": 0,
+        "question": "任何组织或者个人不得侵占、买卖或者以其他形式非法转让土地。土地的（ ）可以依照法律的规定转让。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "所有权",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "使用权",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "占有权",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "收益权",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 1,
+        "question": "国家举办各种学校，普及（ ），发展中等教育、职业教育和高等教育，并且发展学前教育。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "初级义务教育",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "中级义务教育",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "初等义务教育",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "初等教育",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 2,
+        "question": "爱国统一战线由中国共产党领导，有各民主党派和各人民团体参加，包括全体社会主义劳动者、社会主义事业的建设者、拥护社会主义的爱国者和拥护（  ）的爱国者。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "中国共产党的领导和祖国统一",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "祖国统一和致力于中华民族伟大复兴",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "致力于中华民族伟大复兴和中国共产党的领导",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "人民民主专政和中国共产党的领导",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 3,
+        "question": "我国现行的民族自治地方有（ ）。 ",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "自治区、自治州、民族乡",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "自治区、自治县、民族乡",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "自治区、自治州、自治县",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "自治州、自治县、民族乡",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 4,
+        "question": "下列国家机关中，属于民族自治机关的是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国家民族事务委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "自治区人民政府",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "自治州人民法院",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "自治县人民检察院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 5,
+        "question": "根据我国宪法规定， 全国人民代表大会常务委员会有权部分修改（ ）",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "宪法",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "香港特别行政区法律",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "法律",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "国际条约",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 6,
+        "question": "特别行政区基本法的解释权属于（   ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "特别行政区立法会 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人大常委会和特别行政区立法会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 7,
+        "question": "各少数民族聚居的地方实行（ ），设立自治机关，行使自治权。各民族自治地方都是中华人民共和国不可分离的部分。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "区域自治",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "民族自治",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "基层群众自治",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "特殊的经济制度",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 8,
+        "question": "在我国，国民经济中的主导力量是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国有经济",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "集体经济",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "私营经济",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "个体经济",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 9,
+        "question": "2018年3月11日，（ ）会议经投票表决，通过了《中华人民共和国宪法修正案》。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国政协第十三届一次会议",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "第十三届全国人民代表大会第一次会议",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "十三届全国人民代表大会一次会议第五次全体会议",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "十三届全国人大常委会第一次会议",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 10,
+        "question": "根一切国家机关和武装力量、各政党和各社会团体、各企业事业组织，都必须以（ ）为根本的活动准则。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "宪法和法律",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "党章",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "章程",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "法规",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 11,
+        "question": "中国坚持独立自主的对外政策，坚持互相尊重（ ）、互不侵犯、互不干涉内政、平等互利、和平共处五项原则。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "主权",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "领土",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "主权和领空",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "主权和领土完整",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 12,
+        "question": "中央和地方的国家机构职权的划分，遵循在中央的统一领导下，充分发挥地方的( )的原则。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "主动性、积极性",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "主动性、能动性",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "积极性、创造性",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "能动性、创造性",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 13,
+        "question": "依照宪法,（ ）应当向全国人民代表大会报告工作。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "中华人民共和国主席",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "中央军委主席",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "中国人民政治协商会议",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 14,
+        "question": "国家在必要时得设立特别行政区。在特别行政区内实行的制度按照具体情况由（ ）以法律规定。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "中央人民政府",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 15,
+        "question": "凡具有中华人民共和国国籍的人都是中华人民共和国（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "人民",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "居民",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "公民",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "国民",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 16,
+        "question": "我国宪法的解释权属于（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会法律委员会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 17,
+        "question": "我国现行宪法规定，省、自治区、直辖市的区域划分由（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会审议决定",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人大常委会批准",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国务院审批",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "民政部批准",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 18,
+        "question": "我国公民有受教育的（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "权利和义务",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "责任",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "要求",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "权力",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 19,
+        "question": "中国人民政治协商会议是有广泛代表性的（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "法律监督机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "中央国家机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "民主党派组织",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "统一战线组织",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 20,
+        "question": "宪法规定，我国的人民法院是（ ）",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国家的司法机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国家的法律监督机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国家的仲裁机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家的审判机关",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 21,
+        "question": "各民族公民都有用( )语言文字进行诉讼的权利",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "当地通用的",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "本民族",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "其他民族",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "自己通晓的",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 22,
+        "question": "中华人民共和国公民在（ ）的情况下，有从国家和社会获得物质帮助的权利。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "欠债",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "受伤害",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "年老、疾病或者丧失劳动能力",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "未成年",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 23,
+        "question": "现行宪法规定，由于国家机关和国家工作人员侵犯公民权利而受到损失的人，有依照法律规定（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "提出批评的权利",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "提出申诉的权利",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "取得赔偿的权利",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "要求给予刑事处罚的权利",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 24,
+        "question": "（ ）宪法修正案把邓小平理论载入宪法。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "1988年",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1993年",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "1999年",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "2004年",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 25,
+        "question": "全国人民代表大会每届任期（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "三年",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "五年",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "两年",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "四年",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 26,
+        "question": "我国现行宪法除序言外，其五个修正案共有（ ）条。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "五十",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "五十二",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "四十",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "五十一",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 27,
+        "question": "国务院总理、副总理、国务委员连续任职最长是 ( )。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "一届",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "两届",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "三届",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "四届",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 28,
+        "question": "宪法规定，依法服兵役和参加民兵组织是我国公民的（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "神圣权利",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "光荣义务",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "权利和义务",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "神圣职责",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 29,
+        "question": "公民的概念和人民的概念相比，（  ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "公民的范围要比人民的范围广",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "人民的范围要比公民的范围广",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "公民的范围等同人民的范围",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "公民的范围与人民的范围完全不同",
+            "isCorrect": 0
+        }]
+    }]
+}

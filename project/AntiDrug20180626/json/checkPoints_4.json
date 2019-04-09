@@ -1,0 +1,754 @@
+{
+    "name": "静安禁毒关卡一图组4",
+    "data": [
+    {
+        "id": 0,
+        "question": "根据我国宪法规定，全国人民代表大会和全国人大常委会认为必要时，可以组织关于特定问题的（ ） 。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "专门委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "调查委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "临时委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "审议委员会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 1,
+        "question": "地方各级人民代表大会和地方各级人民政府组织法于1979年制定，此后经过（ ）次修改。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "两次",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "三次",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "四次",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "五次",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 2,
+        "question": "县级人民代表大会举行会议的时候，( )以上代表联名，可以提出对县人大常委会组成人员的罢免案。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "三十分之一",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "四十分之一",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "十分之一",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "二十分之一",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 3,
+        "question": "下列关于人民代表大会常务委员会组成人员的名额中哪一选项正确 （ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "直辖市不超过八十五人",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "自治州十九人至四十一人",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "市辖区不超过二十七人",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "设区的市不超过四十一人",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 4,
+        "question": "省、自治区的人民政府所在地的市制定的地方性法规，需报省、自治区的人民代表大会常务委员会（ ）后施行。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "批准",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "备案",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "核准",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "许可",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 5,
+        "question": "主任会议或者（ ）以上的常务委员会组成人员书面联名，可以向本级人民代表大会常务委员会提议组织关于特定问题的调查委员会，由全体会议决定。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "七分之一",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "八分之一",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "五分之一",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "十分之一",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 6,
+        "question": "省、自治区的人民政府所在地的市人民代表大会制定的地方性法规，报（ ）批准后施行。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "省、自治区的人民代表大会常务委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "省、自治区的人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "省、自治区的人民代表大会有关专门委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 7,
+        "question": "经国务院批准的较大的市的人民代表大会制定地方性法规，报省、自治区的人民代表大会常务委员会批准后施行，并由省、自治区的人民代表大会常务委员会报（ ）和国务院备案。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "省、自治区的人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会有关专门委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 8,
+        "question": "代表的罢免必须由原选举单位以（ ）的过半数通过，或者由原选区以选民的过半数通过。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "参加会议代表",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全体代表",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "选民",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "参加会议选民",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 9,
+        "question": "县级以上的地方各级人民代表大会常务委员会是本级人民代表大会的（ ），对本级人民代表大会负责并报告工作。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "常设机关",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "工作机构",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "执行机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "工作部门",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 10,
+        "question": "自治区主席、自治州州长、自治县县长由（ ）担任。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "实行区域自治的民族的公民",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "实行区域自治的民族的人民",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "少数民族的公民",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "自治地方的各民族公民",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 11,
+        "question": "下列人员中，属于国务院组成人员的是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国务院外事办公室主任",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国务委员",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "副总理",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "各部部长",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 12,
+        "question": "国务院审计机关在（ ）领导下，依照法律规定独立行使审计监督权，不受其他行政机关、社会团体和个人的干涉。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国务院总理",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人大常委会委员长",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国政协主席",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 13,
+        "question": "在不同宪法、法律、行政法规相抵触的前提下，不可以制定地方性法规的是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "安徽省人民政府",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "安徽省肥西县人民代表大会",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "天津市人民代表大会常务委员会 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "上海张江高新技术产业开发区管理委员会",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 14,
+        "question": "省辖市人民代表大会常务委员会的组成人员不可以担任的职位是（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "市委政法委书记",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "市司法局局长",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "市中级人民法院院长",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "市人民检察院检察长",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 15,
+        "question": "最高人民检察院副检察长、检察委员会委员、检察员和军事检察院检察长由（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "最高人民检察院检察长任免",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "最高人民检察院检察长提请全国人民代表大会任免",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "最高人民检察院检察长提请全国人民代表大会常务委员会任免",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会任免",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 16,
+        "question": "关于民族自治地方的人民代表大会的立法权限，下列表述中不正确的是（ ）。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "自治区、自治州、自治县的人民代表大会有权依照当地民族的政治、经济和文化的特点，制定自治条例和单行条例",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "自治州的人民代表大会及其常务委员会有权制定单行条例",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "自治县的人民代表大会有权制定地方性法规",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "自治区人民代表大会常务委员会有权制定自治条例",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 17,
+        "question": "依照宪法规定，中华人民共和国主席、副主席都缺位的时候，由全国人民代表大会补选。在补选以前，应由（ ）暂时代理主席职位。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "最高人民法院院长",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "中央军事委员会主席",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国务院总理",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会委员长",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 18,
+        "question": "中华人民共和国建立初期曾起到过临时宪法作用的是( )",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "《中国人民政治协商会议共同纲领》",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "《中国人民政治协商会议章程》",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "《政务院及所属各机关组织通则》",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "《各界人民代表会议组织通则》",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 19,
+        "question": "“我国正处于社会主义初级阶段”是在（ ）中确认的。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "1999年宪法修正案",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1982年宪法",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "1988年宪法修正案",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "1993年宪法修正案",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 20,
+        "question": "“我国将长期处于社会主义初级阶段”是在（ ）中确认的。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "2004年宪法修正案",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1988年宪法修正案",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "1993年宪法修正案",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "1999年宪法修正案",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 21,
+        "question": "全国人民代表大会举行会议的时候，( )主持会议。",
+        "option":[
+        {
+            "id": 0,
+            "optionSub": "选举主席团",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会会议主席团",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会委员长",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 22,
+        "question": "十届全国人民代表大会第二次会议通过的《中华人民共和国宪法修正案》，首次将（ ） 写入宪法。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "物质文明",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "政治文明",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "精神文明",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "制度文明",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 23,
+        "question": "决定全国或者个别省、自治区、直辖市进入紧急状态的职权由（ ）行使。",
+        "option":  [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "中央军委",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 24,
+        "question": "（ ）主持全国人民代表大会常务委员会的工作，召集全国人民代表大会常务委员会会议。",
+        "option":  [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会常务委员会委员长 ",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会秘书长",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会常务委员会主席团",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会委员长会议",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 25,
+        "question": "我国宪法规定，宪法的修改，由全国人民代表大会常务委员会或者（ ）以上的全国人民代表大会代表提议，并由全国人民代表大会以全体代表的（  ）以上多数通过。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "四分之一，三分之二",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "三分之一，三分之二",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "五分之一，三分之二",
+            "isCorrect": 1  
+        },
+        {
+            "id": 3,
+            "optionSub": "四分之一，二分之一",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 26,
+        "question": "根据宪法规定，我国驻外全权代表由（ ）任免决定。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会常务委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家主席和全国人大常委会",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 27,
+        "question": "省、自治区、直辖市的人民代表大会根据本行政区域的具体情况和实际需要，在不同宪法、法律、行政法规相抵触的前提下，可以制定和颁布地方性法规，报（ ）备案。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会和国务院",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人民代表大会有关专门委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "全国人民代表大会常务委员会和国务院",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 28,
+        "question": "根据地方组织法规定，下列哪一选项是不正确的（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "县级以上的地方各级人民代表大会常务委员会由主任、副主任若干人，秘书长、委员若干人组成 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "县级以上的地方各级人民代表大会常务委员会根据需要，可以设法制（政法）委员会等专门委员会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "县级以上的地方各级人民代表大会可以组织关于特定问题的调查委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "县级以上的地方各级人民代表大会会议由本级人民代表大会常务委员会召集并主持",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 29,
+        "question": "根据地方组织法的规定，下列做法不正确的是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国务院可以改变或者撤销省政府不适当的决定、命令",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "省级人民代表大会可以改变或者撤销本级人民政府不适当的决定、命令",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "省人大常委会可以改变或者撤销市级人大及其常委会不适当的决议",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "省人大常委会可以改变或者撤销本级人民政府不适当的决定、命令",
+            "isCorrect": 1
+        }]
+    }]
+}

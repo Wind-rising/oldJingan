@@ -1,0 +1,754 @@
+{
+    "name": "静安禁毒关卡一图组0",
+    "data": [
+    {
+        "id": 0,
+        "question": "我国现行宪法是由第五届全国人民代表大会第五次会议于（ ）年通过的。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "1954",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1975",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "1978",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "1982",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 1,
+        "question": "全国法制宣传日是每年的（ ），也就是现行宪法颁布施行纪念日。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "12月1日",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "12月20日",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "12月4日",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "12月8日",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 2,
+        "question": "根据我国宪法规定，国家保护和改善生活环境和（ ），防治污染和其他公害。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "生态平衡",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "生存环境",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "自然环境",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "生态环境",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 3,
+        "question": "我国宪法规定，（ ）是我国的根本制度。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "人民民主专政",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "生产资料公有制",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "社会主义制度",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "人民代表大会制度",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 4,
+        "question": "我国宪法规定，国家推行计划生育，使人口的增长同经济和（ ）相适应。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "社会发展",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "社会资源的增长",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "生态环境",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "社会发展计划",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 5,
+        "question": "社会主义初级阶段，国家坚持（ ）的分配制度。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "按劳分配",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "按劳分配与按需分配相结合",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "按需分配",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "按劳分配为主体，多种分配方式并存",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 6,
+        "question": "每年（ ）为国家宪法日",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "12月1日",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "12月2日",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "11月4日",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "12月4日",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 7,
+        "question": "现行宪法规定，我国根本任务是把我国建设成为（ ）的社会主义现代化强国，实现中华民族伟大复兴。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "富强民主文明和谐平等",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "富强民主文明和谐公正",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "富强民主文明和谐自由平等公正",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "富强民主文明和谐美丽",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 8,
+        "question": "现行宪法规定，我国将坚持推动（ ）协调发展。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "物质文明、政治文明、精神文明",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "物质文明、政治文明、精神文明、社会文明、经济文明",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "物质文明、政治文明、精神文明、社会文明、生态文明",
+            "isCorrect": 1
+        },
+        {
+            "id": 3,
+            "optionSub": "物质文明、政治文明、精神文明、经济文明、生态文明",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 9,
+        "question": "现行宪法规定，（ ）的社会主义民族关系已经确立，并将继续加强。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "平等团结互助",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "平等团结互助友爱",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "平等互助团结友爱",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "平等团结互助和谐",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 10,
+        "question": "现行宪法规定，（ ）是中国特色社会主义最本质的特征。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "依法治国",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "人民当家作主",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "坚持社会主义制度",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "党的领导",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 11,
+        "question": "现行宪法规定，（ ）都由人民代表大会产生，对它负责，受它监督。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国家行政机关、审判机关、监察机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国家行政机构、监察机关、审判机关、检察机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国家行政机关、审判机关、检察机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家行政机关、监察机关、审判机关、检察机关",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 12,
+        "question": "我国公布了（    ）几次宪法修正案，分别为（   ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": " 四次，1988年、1999年、2004年、2018年 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "四次，1993年、1998年、2004年、2018年",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "五次，1988年、1993年、1998年、2004年、2018年",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "五次，1988年、1993年、1999年、2004年、2018年 ",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 13,
+        "question": "现行宪法规定，宅基地和自留地、自留山属于（    ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "国家所有",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "集体所有",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "公共所有",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "集体所有、村民承包",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 14,
+        "question": "现行宪法第3条规定，我国的国家机构实行（   ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "社会主义法治原则",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "民主集中制原则",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "责任制原则",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "党对国家机构的领导原则",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 15,
+        "question": "在法律规定范围内的个体经济、私营经济等非公有制经济是社会主义市场经济的（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "重要组成部分",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "必要补充",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "重要基础",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "最具活力、最有前途的部分",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 16,
+        "question": "国家（ ）非公有制经济的发展，并对非公有制经济依法实行监督和管理。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "保障、鼓励和支持",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "鼓励、引导和帮助",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "引导、支持和保障",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "鼓励、支持和引导",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 17,
+        "question": "根据现行宪法，我国人民法院上下级的关系是（  ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "监督关系",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "指导关系",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "领导关系",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "协调关系",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 18,
+        "question": "在我国，地方各级人民法院对（ ）负责。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "产生它的国家权力机关",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "上级行政机关",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "同级人民政府",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "同级党委",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 19,
+        "question": "人民代表大会制度的核心内容和实质是（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "工人阶级领导",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "国家的一切权力属于人民",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "国内各民族一律平等",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "少数服从多数",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 20,
+        "question": "我国《宪法》规定，（  ）是我国的根本政治制度。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "人民民主专政",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "生产资料公有制",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "社会主义制度",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "人民代表大会制度",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 21,
+        "question": "中华人民共和国的一切权力属于（ ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "公民",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "人民",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "人民代表大会",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "工农联盟",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 22,
+        "question": "宪法规定，我国享有选举权和被选举权的人是（  ）。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全体公民",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "全体人民",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "18周岁以上的公民 ",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "年满18周岁未被依法剥夺政治权利的公民",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 23,
+        "question": "国家在社会主义初级阶段的基本经济制度是（ ）",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "坚持以公有制为主体、多种所有制经济共同发展",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "坚持按劳分配为主体、多种分配方式并存的分配制度",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "坚持以全民所有制为主体、集体和其他经济成份共同发展",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "坚持公有制的主体地位",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 24,
+        "question": "2018年3月11日，宪法修正案共（   ）条。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "20",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "21",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "22",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "23",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 25,
+        "question": "宪法以（ ）的形式确认了中国各族人民奋斗的成果，规定了国家的根本制度和根本任务，是国家的根本法，具有最高的法律效力。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "序言",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "法律",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "文件",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "决议",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 26,
+        "question": "我国从（ ）年开始采用宪法修正案的方式对现行宪法进行修改。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "1986年",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "1988年",
+            "isCorrect": 1
+        },
+        {
+            "id": 2,
+            "optionSub": "1993年",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "1995年",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 27,
+        "question": "到目前为止，我国对现行宪法进行了（ ）次修改。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "二",
+            "isCorrect": 0
+        },
+        {
+            "id": 1,
+            "optionSub": "三",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "四",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "五",
+            "isCorrect": 1
+        }]
+    },
+    {
+        "id": 28,
+        "question": "最高人民法院院长由（ ）选举和罢免",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "全国人民代表大会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "全国人大常委会",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        }]
+    },
+    {
+        "id": 29,
+        "question": "（ ）领导全国武装力量。",
+        "option": [
+        {
+            "id": 0,
+            "optionSub": "中华人民共和国中央军事委员会",
+            "isCorrect": 1
+        },
+        {
+            "id": 1,
+            "optionSub": "国务院",
+            "isCorrect": 0
+        },
+        {
+            "id": 2,
+            "optionSub": "国防部",
+            "isCorrect": 0
+        },
+        {
+            "id": 3,
+            "optionSub": "国家主席",
+            "isCorrect": 0
+        }]
+    }]
+}

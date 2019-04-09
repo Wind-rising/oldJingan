@@ -1,0 +1,111 @@
+<?php
+function p($var){
+	var_dump($var);
+}
+
+function pe($var){
+	var_dump($var);
+	exit();
+}
+
+//返回静态文件的路径
+function static_url(){
+	return config_item('static_url');
+}
+
+//登录url
+function login_url(){
+	return config_item('login_url');
+}
+
+//默认url
+function default_url(){
+	return config_item('default_url');
+}
+
+//项目url
+function app_url(){
+	return config_item('app_url');
+}
+
+//积分商品细节的颜色属性
+function POINT_GOODS_COLOR(){
+	return config_item('POINT_GOODS_COLOR');
+}
+
+//远程地址
+function REMOTE_HOST(){
+	return config_item('REMOTE_HOST');
+}
+
+//转义单引号和双引号为
+function escape_input_character($input_value){
+	$input_value = str_replace('"', "&#34;", $input_value);
+	$input_value = str_replace("'", "&#39;", $input_value);
+	return $input_value;
+}
+
+//商品订单状态
+function GOODS_ORDER(){
+	return config_item('GOODS_ORDER');
+}
+
+//FCode状态
+function FCODE_STATUS(){
+	return config_item('FCODE_STATUS');
+}
+
+//ftp发送文件
+function ftp_upload($source_file, $destination_dir, $destination_file){
+	$conn_id = ftp_connect(config_item('FTP_HOST'), config_item('FTP_PORT'), 20);
+	if($conn_id === false){
+		return false;
+	}
+	$login_result = ftp_login($conn_id, config_item('FTP_USER'), config_item('FTP_PWD'));
+	ftp_pasv($conn_id, true);
+	if ( !$conn_id || !$login_result){
+		return false;
+	}
+
+	if (!@ftp_chdir($conn_id, $destination_dir)){
+		ftp_mkdir($conn_id, $destination_dir);
+		ftp_chdir($conn_id, $destination_dir);
+	}
+	$upload = ftp_put($conn_id, $destination_file, $source_file, FTP_BINARY);
+	ftp_close($conn_id);
+	if ($upload) {
+		return true;
+	}else{
+		return false;
+	}
+}
+
+function arrayValueIndex(&$list, $name)
+{
+    $ret = array();
+    foreach ($list as &$item) {
+        $ret[$item[$name]] = &$item;
+    }
+    unset($item);
+    return $ret;
+}
+
+function arrayValueList()
+{
+    $ret = array();
+    $argList = func_get_args();
+    $name = end($argList);
+    if (!is_string($name)) {
+        return $ret;
+    }
+    foreach ($argList as $arg) {
+        if (!empty($arg) && is_array($arg)) {
+            foreach ($arg as $item) {
+                if (isset($item[$name])) {
+                    $ret[] = $item[$name];
+                }
+            }
+        }
+    }
+    return array_unique($ret);
+}
